@@ -1,0 +1,23 @@
+INFO 2024-11-19 04:11:26,201 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-19 04:11:30,454 log Not Found: /
+WARNING 2024-11-19 04:11:30,454 basehttp "GET / HTTP/1.1" 404 2309
+WARNING 2024-11-19 04:11:30,633 log Not Found: /favicon.ico
+WARNING 2024-11-19 04:11:30,633 basehttp "GET /favicon.ico HTTP/1.1" 404 2360
+WARNING 2024-11-19 04:12:00,960 log Not Found: /users/login/
+WARNING 2024-11-19 04:12:00,961 basehttp "GET /users/login/ HTTP/1.1" 404 12629
+WARNING 2024-11-19 04:12:03,314 log Not Found: /users/login/
+WARNING 2024-11-19 04:12:03,316 basehttp "GET /users/login/ HTTP/1.1" 404 12629
+WARNING 2024-11-19 04:12:05,029 log Unauthorized: /users
+WARNING 2024-11-19 04:12:05,030 basehttp "GET /users HTTP/1.1" 401 4991
+INFO 2024-11-19 04:12:05,268 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-19 04:12:05,271 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-19 04:12:05,276 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-11-19 04:12:05,277 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-11-19 04:12:05,384 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-11-19 04:12:05,385 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-11-19 04:12:05,389 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-19 04:12:05,411 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-19 04:12:05,411 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-11-19 04:12:05,436 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-11-19 04:12:05,440 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-11-19 04:12:05,475 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
